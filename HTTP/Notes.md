@@ -89,6 +89,7 @@
 - **Response 消息的结构**
     Response消息的结构, 和Request消息的结构基本一样。 同样也分为三部分,第一部分叫Response line, 第二部分叫Response header，第三部分是body. header和body之间也有个空行,  结构如下图:
     ![Response消息结构](Image/Response.png)
+
 ***
 
 # **HTTP协议是无状态的**
@@ -162,3 +163,5 @@ Http协议定义了很多与服务器交互的方法，最基本的有4种，分
 - 404 Not Found        请求资源不存在（输错了URL或URL无效）。
 - 500 Internal Server Error     服务器发生了不可预期的错误。
 - 503 Server Unavailable        服务器当前不能处理客户端的请求，一段时间后可能恢复正常。
+
+***
