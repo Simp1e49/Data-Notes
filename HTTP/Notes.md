@@ -53,6 +53,7 @@
 ![TCP/IP连接过程](Image/连接过程.png)
 
     断开连接时则为四次握手，如图所示：
+
 ![TCP/IP四次握手](Image/TCP-IP四次握手.png)
 
 ***
