@@ -1,4 +1,4 @@
-# ReadPlan
+# readPlan
 ## *读书清单*
 ***
 1. 《Google Java Style 中文版》
