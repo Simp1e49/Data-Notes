@@ -4,6 +4,6 @@
 
 * [HTTP](HTTP/README.md)
 
-* [readPlan](ReadPlan.md)
+* [readPlan](read-plan.md)
 
 ***
